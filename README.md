@@ -2,7 +2,5 @@
 
 
 
-![Picture2](https://github.com/NikeeShrestha/SorghumSeedSegmentation/assets/60561711/e99c6b98-3b5b-493f-a7a6-f0ef7072b42b)
-
-
-![Picture1](https://github.com/NikeeShrestha/SorghumSeedSegmentation/assets/60561711/bcafea3a-0349-4fba-a799-29b2a319b47b)
+<img width="686" alt="Screen Shot 2023-07-09 at 3 19 44 PM" src="https://github.com/NikeeShrestha/SorghumSeedSegmentation/assets/60561711/3fceea0b-7ffb-4879-bc57-065f6a0a8a1f">
+<img width="632" alt="Screen Shot 2023-07-09 at 3 19 06 PM" src="https://github.com/NikeeShrestha/SorghumSeedSegmentation/assets/60561711/3163cf84-fe05-482f-a594-e94aab480ae3">
