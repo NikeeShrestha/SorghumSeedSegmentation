@@ -2,3 +2,7 @@
 
 
 
+![Picture2](https://github.com/NikeeShrestha/SorghumSeedSegmentation/assets/60561711/e99c6b98-3b5b-493f-a7a6-f0ef7072b42b)
+
+
+![Picture1](https://github.com/NikeeShrestha/SorghumSeedSegmentation/assets/60561711/bcafea3a-0349-4fba-a799-29b2a319b47b)
