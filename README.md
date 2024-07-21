@@ -4,6 +4,8 @@
 
 ## The main directory has three sub directories and compressed folder **Cropped_Scanned_Preprocessed.zip**:
 
+- **Cropped_Scanned_Preprocessed.zip** is a compressed folder that consists of 1664 pre-processed sorghum seed scans from experimental plots in the year of 2021. These images can be run through **SorghumSeedInference.ipynb** to extract seed shape and color phenotypes. You will require https://git-lfs.com/ to download this file. 
+
 - **Scripts**: This directory has two jupyter notebook scripts.
     -  **SorghumSeedInference.ipynb**: This notebook shows a demo about segmenting seed images and extracting data related to seed shape and color. The notebook has all the information regarding the files required to run this notebook.
     -  **ManualAnnotation.ipynb**: This notebook shows how to get the ground truth data related to seed shape and color from ten manually segmented images. The notebook has information regarding the files required to run the script.
@@ -15,5 +17,3 @@
 - **inference**: This directory has two sub-directories.
     - **rawimages**: This directory has three example images which is incorporated to be procssed in the **SorghumSeedInference.ipynb** script for preprocessing and extracting seed color phenotypes analysed in the study.
     - **processedimages**: This directroy will save the procssed images after images from **rawimages** runs through **SorghumSeedInference.ipynb**.
-
-- **Cropped_Scanned_Preprocessed.zip** is a compressed folder that consists of 1664 pre-processed sorghum seed scans from experimental plots in the year of 2021. These images can be run through **SorghumSeedInference.ipynb** to extract seed shape and color phenotypes. 
